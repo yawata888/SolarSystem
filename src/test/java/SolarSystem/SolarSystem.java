@@ -12,9 +12,17 @@ public class SolarSystem {
         xros.temp="23424Kv";
         xros.size="OKm";
 
+
         planet1 renox= new planet1();
         renox.color="grey";
         renox.size="10Km";
         renox.radius="5m";
+
+        planet2 perox =new planet2();
+        perox.color="green";
+        perox.size="1m";
+        perox.radius="3m";
+
+
     }
 }
